@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "9c969dd5-c475-48b4-b1d6-f266684461df",
+      "name": "miguel",
+      "image": "http://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_zz-plant_variant_medium_grant_black_1200x.jpg?v=1645742265",
+      "price": "0.01"
     }
   ]
 }
